@@ -1,0 +1,24 @@
+body {
+    background-color: darkkhaki;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+dl{
+    text-align: center;
+}
+
+ol{
+    text-align:center;
+}
