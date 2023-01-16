@@ -1,7 +1,12 @@
 body {
-    background-color:darkseagreen
-    font-size 1.2rem;
+    background-color:wheat;
+    font-size:1,2rem;
     font-family: 'Times New Roman', Times, serif;
+}
+
+
+p{
+    text-align: center;
 }
 
 
