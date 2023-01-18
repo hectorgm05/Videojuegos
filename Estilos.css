@@ -27,16 +27,25 @@ h2 {
 
 dl{
     text-align: center;
+    dt{
+        color: aliceblue; 
+    }
+
+    dd{
+        color: aliceblue; 
+    }
 }
 
 
 ol{
-    text-align:center;
+    text-align: center;
+    color: aliceblue; 
 }
 
 
 ul{
     text-align: center;
+    color: aliceblue;
 }
 
 
