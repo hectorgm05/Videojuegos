@@ -27,13 +27,7 @@ h2 {
 
 dl{
     text-align: center;
-    dt{
-        color: aliceblue; 
-    }
-
-    dd{
-        color: aliceblue; 
-    }
+    color: aliceblue;
 }
 
 
