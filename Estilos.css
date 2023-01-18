@@ -1,6 +1,6 @@
 body {
-    background-image: url(D:\Videojuegos\Videojuegos\Imágenes\Fondo.jpg);
-    font-size:1,2rem;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvmZiavE1UbQYjRtvkjUFK3UgY3VIPnEBNuWzvxfQxiJyQhnyQXqmtvV-FYUR25N-_Odo&usqp=CAU);
+    font-size:1,4rem;
     font-family:'Times New Roman', Times, serif
 }
 
@@ -45,4 +45,9 @@ table{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(159, 188, 143, 0.938);
+}
+
+
+a{
+    color: aliceblue;
 }
