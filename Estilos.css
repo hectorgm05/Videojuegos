@@ -43,16 +43,16 @@ ul{
 }
 
 
+a{
+    color: aliceblue;
+}
+
+
 table{
     margin: 0 auto;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(159, 188, 143, 0.938);
-}
-
-
-a{
-    color: aliceblue;
 }
 
 
@@ -69,7 +69,6 @@ header{
 
 
 main{
-    background-color:lightgreen;
+    background-color: forestgreen;
     padding: 15px;
-    
 }
