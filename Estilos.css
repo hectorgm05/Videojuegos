@@ -59,9 +59,15 @@ a{
 footer{
     text-align: center;
     color: coral;
+    background-color: rgb(255, 113, 208);
 }
 
 
 header{
     background-color: brown;
+}
+
+
+main{
+    background-color: rgb(173, 216, 230);
 }
